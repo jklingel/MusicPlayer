@@ -16,7 +16,7 @@ A pause can be inserted by adding the line
 
    255, length of pause
 
-The following length values worked for me for a mid-temp song:
+The following length values worked for me for a mid-tempo song:
 
 	1/8th note: 10
 	1/4th note: 20
