@@ -1,0 +1,35 @@
+; Song: "Alle meine Entchen"
+; Author: Ernst Anschhuetz, 1780-1861
+; Encoding: Jan Klingel, 2020
+
+music    
+         .byte 179,8,20
+         .byte 196,9,20
+         .byte 246,10,20
+         .byte 157,11,20
+         .byte 9,13,40
+         .byte 9,13,40
+         .byte 161,14,20
+         .byte 161,14,20
+         .byte 161,14,20
+         .byte 161,14,20
+         .byte 9,13,60
+         .byte 255,10 
+         .byte 161,14,20
+         .byte 161,14,20
+         .byte 161,14,20
+         .byte 161,14,20
+         .byte 9,13,60
+         .byte 255,10
+         .byte 157,11,20
+         .byte 157,11,20
+         .byte 157,11,20
+         .byte 157,11,20
+         .byte 246,10,40
+         .byte 246,10,40
+         .byte 196,9,20
+         .byte 196,9,20
+         .byte 196,9,20
+         .byte 196,9,20
+         .byte 179,8,60
+         .byte 0

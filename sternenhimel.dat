@@ -1,0 +1,27 @@
+; Song: "Sternenhimmel"
+; Author: Hubert Kah, Claus
+; Zundel, Ulrich Herter, 1982
+; Encoding: Jan Klingel, 2020
+
+music
+.byte 255,5
+.byte 196,9,10
+.byte 196,9,10
+.byte 196,9,10
+.byte 108,16,20
+.byte 9,13,20
+.byte 157,11,10
+.byte 9,13,20
+.byte 255,5
+.byte 108,16,20
+.byte 9,13,20
+.byte 157,11,10
+.byte 9,13,20
+.byte 108,16,20
+.byte 9,13,20
+.byte 157,11,10
+.byte 9,13,20
+.byte 108,16,10
+.byte 9,13,10
+.byte 255,5
+.byte 0
